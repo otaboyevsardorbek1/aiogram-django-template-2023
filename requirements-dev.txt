@@ -1,7 +1,7 @@
 black~=23.12.1
 flakeheaven~=3.3.0
 isort~=5.13.2
-mypy~=1.15
+mypy~=1.16
 perflint~=0.7.3
 pip-check-updates~=0.27.0
 pre-commit~=4.2.0
